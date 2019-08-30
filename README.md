@@ -24,3 +24,4 @@ Adicionando no username (print07)
 
 FETCH
 Comando Fetch para confirmar se mexeu no local (print08)
+Print mostrando todas os prints inseridos no repositório (print09)
