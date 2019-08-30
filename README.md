@@ -20,6 +20,7 @@ COMMIT
 Fazendo o commit / comentario (print06) 
 
 PUSH
-Adicionando no username 
+Adicionando no username (print07)
 
 FETCH
+Comando Fetch para confirmar se mexeu no local (print08)
